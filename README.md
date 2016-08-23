@@ -5,8 +5,9 @@ I make this to make a "quick backend" (for and agenda) that works with Google Sh
 # Requeriments
 
 -	You need a Google Drive Api Ke
--	You need to get the "shareable link" of the image. Then copy the id:
-	https://drive.google.com/open?id=ID OF THE IMAGE
+-	You need to get the "shareable link" of the image. 
+	Then copy the id:
+	https://drive.google.com/open?id=ID_OF_THE_IMAGE
 
 # Usage
 
